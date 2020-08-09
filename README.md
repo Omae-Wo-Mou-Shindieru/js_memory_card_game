@@ -1,1 +1,2 @@
-# js_memory_card_game
+# A basic card memory game
+# run index.html in a browser and have a try
